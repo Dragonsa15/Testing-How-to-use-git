@@ -1,2 +1,2 @@
 # Testing-How-to-use-git
-Ya as what the title says
+Yay as what the title says
